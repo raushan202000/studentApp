@@ -1,0 +1,157 @@
+{
+    "StudentDTO": [
+       {
+          "Age": "12",
+          "Date": "2020-07-02",
+          "Email": "afsdfsa",
+          "Id": "804da0b3-d414-415c-8de3-2740a78504f8",
+          "Name": "HDSkjh",
+          "RollNo": "13222",
+          "isMale": "true"
+       },
+       {
+          "Age": "16",
+          "Date": "2020-06-18",
+          "Email": "bdbgg@73",
+          "Id": "07077ed0-6be7-4021-8de7-278f77e92d3b",
+          "Name": "ndj",
+          "RollNo": "55",
+          "isMale": "false"
+       },
+       {
+          "Age": "95",
+          "Date": "2020-06-18",
+          "Email": "hfvthd",
+          "Id": "eed4112e-ec43-4c04-b22e-30af8a4447bc",
+          "Name": "agiebf",
+          "RollNo": "95",
+          "isMale": "false"
+       },
+       {
+          "Age": "32",
+          "Date": "2018-12-15",
+          "Email": "hello@callme.com",
+          "Id": "7f4056f2-97c2-4373-b375-582369921385",
+          "Name": "lmao",
+          "RollNo": "565",
+          "isMale": "false"
+       },
+       {
+          "Age": "21",
+          "Date": "2020-06-18",
+          "Email": "vk@gmail.com",
+          "Id": "5ef4e91e-fcc0-485b-8eb1-5dc92d4629c5",
+          "Name": "vivek",
+          "RollNo": "25",
+          "isMale": "true"
+       },
+       {
+          "Age": "24",
+          "Date": "2018-05-31",
+          "Email": "anchor@zeemedia.com",
+          "Id": "f35a6bb6-67fb-4010-814f-74f5e58c79fb",
+          "Name": "sudhir chaudhary",
+          "RollNo": "45",
+          "isMale": "false"
+       },
+       {
+          "Age": "1",
+          "Date": "2020-06-21",
+          "Email": "pubg lite",
+          "Id": "348b779a-9aeb-4081-9759-7cf44dd41015",
+          "Name": "rahulyadav1402",
+          "RollNo": "1",
+          "isMale": "false"
+       },
+       {
+          "Age": "2",
+          "Date": "2020-06-01",
+          "Email": "PUBG mobile ( mad minarm)",
+          "Id": "3a3159d7-b320-4f85-92d7-8e827d4d3356",
+          "Name": "loop36",
+          "RollNo": "1",
+          "isMale": "false"
+       },
+       {
+          "Age": "6",
+          "Date": "2020-06-21",
+          "Email": "6",
+          "Id": "929d3545-91b9-4414-8376-9cbc028a4aa2",
+          "Name": "t788t",
+          "RollNo": "877",
+          "isMale": "true"
+       },
+       {
+          "Age": "22",
+          "Date": "2020-06-18",
+          "Email": "vk@gmail.com",
+          "Id": "d88e0f00-a3e1-4017-95a5-b5e7fb500543",
+          "Name": "vivek",
+          "RollNo": "555",
+          "isMale": "true"
+       },
+       {
+          "Age": "21",
+          "Date": "2020-10-21",
+          "Email": "head@eee.org",
+          "Id": "9108de3a-f2c6-4527-8b8b-babdad7bb47e",
+          "Name": "Amit Jadhav",
+          "RollNo": "0",
+          "isMale": "true"
+       },
+       {
+          "Age": "13",
+          "Date": "2020-06-18",
+          "Email": "rahulyadav1402@gmail.com",
+          "Id": "ecf5e1a2-13ec-41ee-87ae-c4970c68f44a",
+          "Name": "Rahul Yadav",
+          "RollNo": "8",
+          "isMale": "true"
+       },
+       {
+          "Age": "6",
+          "Date": "2020-06-21",
+          "Email": "6",
+          "Id": "5def3499-1d51-48bf-afae-c5d6bba184c1",
+          "Name": "t788t",
+          "RollNo": "877",
+          "isMale": "true"
+       },
+       {
+          "Age": "36",
+          "Date": "2015-09-14",
+          "Email": "zzz@zza.zaa",
+          "Id": "9ce1458d-d77f-4bcf-a444-cd43b183d54a",
+          "Name": "zzzzz",
+          "RollNo": "4550",
+          "isMale": "false"
+       },
+       {
+          "Age": "12",
+          "Date": "2020-07-02",
+          "Email": "afsdfsa",
+          "Id": "52067c84-ab51-4df1-9847-df94ae2779dd",
+          "Name": "HDSkjh",
+          "RollNo": "13222",
+          "isMale": "true"
+       },
+       {
+          "Age": "13",
+          "Date": "2020-06-18",
+          "Email": "rahulyadav1402@gmail.com",
+          "Id": "106857c8-2cb0-4bf2-80c5-e58ae59ccae7",
+          "Name": "Daku Gabbar Singh",
+          "RollNo": "8",
+          "isMale": "true"
+       },
+       {
+          "Age": "6",
+          "Date": "2020-06-21",
+          "Email": "6",
+          "Id": "bd2c81c0-ddda-44e4-9f24-edbaf6fb403e",
+          "Name": "t788t",
+          "RollNo": "877",
+          "isMale": "true"
+       }
+    ]
+ }

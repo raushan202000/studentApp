@@ -1,0 +1,28 @@
+<a routerLink = '/product'> + Add Product</a>
+
+<h1>
+  <h1>STUDENT-APP</h1>
+</h1>
+
+<table>
+  <th>AGE</th>
+  <th>DATE</th>
+  <th>EMAIL</th>
+  <th>ID</th>
+  <th>NAME</th>
+  <th>ROLL NO</th>
+  <th>IS MALE</th>
+  <th></th>
+  <th></th>
+  <tr *ngFor = "let product of products">
+    <td>{{StudentDTO.Age}}</td>
+    <td>{{StudentDTO.Date}}</td>
+    <td>{{StudentDTO.Email}}</td>
+    <td>{{prStudentDTOoduct.Id}}</td>
+    <td>{{StudentDTO.Name}}</td>
+    <td>{{StudentDTO.RollNo}}</td>
+    <td>{{StudentDTO.isMale}}</td>
+    <td (click) = "deleteProduct(StudentDTO.Id)"><a>DELETE</a></td>
+    <td [routerLink] = "['/update', StudentDTO.Id]"><a>UPDATE</a></td>
+  </tr>
+</table>

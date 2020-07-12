@@ -1,0 +1,18 @@
+<a routerLink = "/"> < back </a>
+
+<h2>
+  Add New Product
+</h2>
+
+<form id = "formNewProduct" name = "formNewProduct" #productData = "ngForm" (ngSubmit) = "addNewProduct(StudentDTOData.value)">
+  <label>Age: </label><input type = "text" name="Age" id="Age" placeholder="age" ngModel><br>
+  <label>date: </label><input type = "date" name="Date" id="Date" placeholder="date" ngModel><br>
+  <label>email: </label><input type = "text" name="Email" id="Email" placeholder="date" ngModel><br>
+  <label>name: </label><input type = "text" name="Name" id="Name" placeholder="name" ngModel><br>
+  <label>roll no: </label><input type = "text" name="RollNo" id="RollNo" placeholder="rollno" ngModel><br>
+  <label>is male: </label><input type = "text" name="isMale" id="isMale" placeholder="ismale" ngModel><br>
+  <input type="submit" value = "Add Product">
+</form>
+
+<br>
+<h3 *ngIf = "isAdded" >{{confirmationString}}</h3>
